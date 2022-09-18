@@ -1,0 +1,1 @@
+This is simple TicTacToe game. This code was written to complete JetBrains Academy project.
